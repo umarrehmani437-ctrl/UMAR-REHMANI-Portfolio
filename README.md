@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://umarrehmani.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="[https://umarrehmani.netlify.app/](https://splendorous-mandazi-debacf.netlify.app/)" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
